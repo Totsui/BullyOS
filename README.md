@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to BullyOS Documentation
+The goal of this git is to create a custom distribution out of a known distribution (first distribution will be based on centOS)
 
-You can use the [editor on GitHub](https://github.com/Totsui/BullyOS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Summary
 
-### Markdown
+1. Goals
+2. Linux Live Kit
+3. What to install
+4. Custom Installer
+5. Other Shits
+6. Sources
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 1. Goals
 
-```markdown
-Syntax highlighted code block
+## 2. Linux Live Kit
 
-# Header 1
-## Header 2
-### Header 3
+## 3. What to install
 
-- Bulleted
-- List
+## 4. Custom Installer
 
-1. Numbered
-2. List
+## 5. Other Shits
 
-**Bold** and _Italic_ and `Code` text
+## 6. Sources
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Totsui/BullyOS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
